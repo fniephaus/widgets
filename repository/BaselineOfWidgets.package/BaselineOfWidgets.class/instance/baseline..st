@@ -6,12 +6,12 @@ baseline: spec
 		spec project: 'Signals' with: [
 			spec
 				className: 'BaselineOfSignals';
-				repository: 'github://marceltaeumel/signals:master/repository'].
+				repository: 'github://marceltaeumel/signals:2.0/repository'].
 
 		spec project: 'Animations' with: [
 			spec
 				className: 'BaselineOfAnimations';
-				repository: 'github://marceltaeumel/animations:master/repository'].
+				repository: 'github://marceltaeumel/animations:2.0/repository'].
 
 		spec package: 'VB-Regex' with: [spec repository: 'http://www.squeaksource.com/Regex'].
 					
